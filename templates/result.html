@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Result</title>
+</head>
+
+<body>
+
+
+<h1>Student Skill Gap Analyzer</h1>
+
+
+<h2>
+Skill Score: {{score}}%
+</h2>
+
+
+<h2>Missing Skills</h2>
+
+<ul>
+
+{% for skill in missing %}
+<li>{{skill}}</li>
+{% endfor %}
+
+</ul>
+
+
+<h2>Recommended Courses</h2>
+
+<ul>
+
+{% for course in courses %}
+<li>{{course}}</li>
+{% endfor %}
+
+</ul>
+
+
+<h2>Learning Roadmap</h2>
+
+<ul>
+
+{% for item in roadmap %}
+<li>{{item}}</li>
+{% endfor %}
+
+</ul>
+
+
+<a href="/">
+Go Back
+</a>
+
+
+</body>
+
+</html>

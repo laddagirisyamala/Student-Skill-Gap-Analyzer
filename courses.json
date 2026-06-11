@@ -1,0 +1,97 @@
+{
+ "Software Developer":[
+  "Java Programming",
+  "Data Structures & Algorithms",
+  "SQL Database",
+  "Git & GitHub",
+  "System Design"
+ ],
+
+ "AI/ML Engineer":[
+  "Python for AI",
+  "Machine Learning",
+  "Deep Learning",
+  "TensorFlow",
+  "AI Projects"
+ ],
+
+ "Data Analyst":[
+  "Advanced Excel",
+  "SQL Analytics",
+  "Power BI",
+  "Data Visualization",
+  "Statistics"
+ ],
+
+ "Web Developer":[
+  "HTML & CSS",
+  "JavaScript",
+  "React JS",
+  "Node JS",
+  "Web Projects"
+ ],
+
+ "Full Stack Developer":[
+  "Frontend Development",
+  "React Development",
+  "Backend Development",
+  "Node JS",
+  "Database Management"
+ ],
+
+ "Cyber Security Engineer":[
+  "Cyber Security Basics",
+  "Ethical Hacking",
+  "Network Security",
+  "Linux Security",
+  "Cyber Projects"
+ ],
+
+ "Cloud Engineer":[
+  "AWS Fundamentals",
+  "Cloud Computing",
+  "Docker",
+  "DevOps Basics",
+  "Cloud Projects"
+ ],
+
+ "Mobile App Developer":[
+  "Android Development",
+  "Java/Kotlin",
+  "Android Studio",
+  "Firebase",
+  "Mobile Projects"
+ ],
+
+ "UI UX Designer":[
+  "Figma Course",
+  "UI Design",
+  "UX Research",
+  "Wireframing",
+  "Portfolio Design"
+ ],
+
+ "Database Administrator":[
+  "SQL Advanced",
+  "Oracle Database",
+  "Database Design",
+  "Backup Management",
+  "Database Security"
+ ],
+
+ "DevOps Engineer":[
+  "Linux Administration",
+  "Docker",
+  "Kubernetes",
+  "CI/CD Pipeline",
+  "DevOps Tools"
+ ],
+
+ "Game Developer":[
+  "C++ Programming",
+  "Unity Engine",
+  "C# Programming",
+  "Game Design",
+  "3D Development"
+ ]
+}

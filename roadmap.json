@@ -1,0 +1,181 @@
+{
+  "AI/ML Engineer": [
+    "Learn Python Basics",
+    "Learn Mathematics",
+    "Study Statistics",
+    "Learn Machine Learning",
+    "Learn Deep Learning",
+    "Practice NumPy Pandas",
+    "Learn TensorFlow",
+    "Work with Datasets",
+    "Build AI Projects",
+    "Create GitHub Portfolio",
+    "Prepare Resume",
+    "Apply AI Jobs"
+  ],
+
+  "Software Developer": [
+    "Learn Programming",
+    "Learn OOP Concepts",
+    "Learn Data Structures",
+    "Practice Algorithms",
+    "Learn Git GitHub",
+    "Learn SQL Database",
+    "Learn APIs",
+    "Build Applications",
+    "Solve Coding Problems",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Data Analyst": [
+    "Learn Excel",
+    "Learn SQL",
+    "Learn Python",
+    "Learn Statistics",
+    "Learn Pandas",
+    "Learn Visualization",
+    "Practice Power BI",
+    "Analyze Datasets",
+    "Build Dashboards",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Cyber Security": [
+    "Learn Linux",
+    "Learn Networking",
+    "Security Basics",
+    "Learn Python",
+    "Ethical Hacking",
+    "Security Tools",
+    "Cryptography",
+    "Cyber Labs Practice",
+    "Build Security Projects",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Web Developer": [
+    "Learn HTML",
+    "Learn CSS",
+    "Learn JavaScript",
+    "Learn React",
+    "Learn Backend",
+    "Learn Database",
+    "Learn APIs",
+    "Build Websites",
+    "Deploy Projects",
+    "Create GitHub",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Cloud Engineer": [
+    "Learn Linux",
+    "Learn Networking",
+    "Learn AWS",
+    "Learn Docker",
+    "Learn Kubernetes",
+    "Learn DevOps",
+    "Practice Deployment",
+    "Cloud Security",
+    "Build Cloud Projects",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Mobile App Developer": [
+    "Learn Programming",
+    "Learn Java/Kotlin",
+    "Learn Flutter",
+    "Learn UI Design",
+    "Learn APIs",
+    "Build Mobile Apps",
+    "Test Applications",
+    "Publish Apps",
+    "Create Projects",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "DevOps Engineer": [
+    "Learn Linux",
+    "Learn Git",
+    "Learn Shell Scripting",
+    "Learn Docker",
+    "Learn CI/CD",
+    "Learn Jenkins",
+    "Learn Kubernetes",
+    "Practice Deployment",
+    "Build DevOps Projects",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "UI/UX Designer": [
+    "Learn Design Basics",
+    "Learn Figma",
+    "Learn UX Principles",
+    "Create Wireframes",
+    "Create Prototypes",
+    "Practice Designs",
+    "Study User Research",
+    "Build Case Studies",
+    "Create Portfolio",
+    "Improve Skills",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Blockchain Developer": [
+    "Learn Blockchain Basics",
+    "Learn Cryptography",
+    "Learn Solidity",
+    "Smart Contracts",
+    "Learn Web3",
+    "Build DApps",
+    "Test Blockchain Apps",
+    "Practice Projects",
+    "Create GitHub",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Game Developer": [
+    "Learn Programming",
+    "Learn C++",
+    "Learn Unity",
+    "Learn Game Design",
+    "Learn 3D Concepts",
+    "Create Game Projects",
+    "Practice Animation",
+    "Build Games",
+    "Publish Games",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ],
+
+  "Data Scientist": [
+    "Learn Python",
+    "Learn Statistics",
+    "Learn Data Analysis",
+    "Learn Machine Learning",
+    "Learn Deep Learning",
+    "Practice Datasets",
+    "Build ML Models",
+    "Learn Visualization",
+    "Create Data Projects",
+    "Create Portfolio",
+    "Prepare Resume",
+    "Apply Jobs"
+  ]
+}

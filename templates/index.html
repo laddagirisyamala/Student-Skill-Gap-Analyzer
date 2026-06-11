@@ -1,0 +1,43 @@
+ <!DOCTYPE html>
+<html>
+
+<head>
+<title>Student Skill Gap Analyzer</title>
+</head>
+
+<body>
+
+<h1>Student Skill Gap Analyzer</h1>
+
+<form method="POST">
+
+<label>Select Career</label>
+
+<select name="career">
+
+{% for c in careers %}
+<option>{{c}}</option>
+{% endfor %}
+
+</select>
+
+
+<br><br>
+
+<label>Your Skills</label>
+
+<input name="skills"
+placeholder="Python, SQL, Git">
+
+
+<br><br>
+
+<button type="submit">
+Analyze
+</button>
+
+</form>
+
+
+</body>
+</html>

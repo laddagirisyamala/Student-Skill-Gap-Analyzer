@@ -1,0 +1,102 @@
+{
+ "Software Developer":[
+  "Python",
+  "Java",
+  "DSA",
+  "SQL",
+  "Git",
+  "OOP"
+ ],
+
+ "AI/ML Engineer":[
+  "Python",
+  "Machine Learning",
+  "Deep Learning",
+  "Statistics",
+  "TensorFlow",
+  "SQL"
+ ],
+
+ "Data Analyst":[
+  "Python",
+  "SQL",
+  "Excel",
+  "Power BI",
+  "Statistics",
+  "Data Visualization"
+ ],
+
+ "Web Developer":[
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React",
+  "Node.js",
+  "Git"
+ ],
+
+ "Full Stack Developer":[
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React",
+  "Node.js",
+  "Database"
+ ],
+
+ "Cyber Security Engineer":[
+  "Linux",
+  "Networking",
+  "Python",
+  "Ethical Hacking",
+  "Security"
+ ],
+
+ "Cloud Engineer":[
+  "Linux",
+  "AWS",
+  "Docker",
+  "Networking",
+  "DevOps"
+ ],
+
+ "Mobile App Developer":[
+  "Java",
+  "Kotlin",
+  "Android Studio",
+  "UI Design",
+  "Firebase"
+ ],
+
+ "UI UX Designer":[
+  "Figma",
+  "UI Design",
+  "UX Research",
+  "Wireframing",
+  "Prototyping"
+ ],
+
+ "Database Administrator":[
+  "SQL",
+  "Database",
+  "Oracle",
+  "Backup",
+  "Security"
+ ],
+
+ "DevOps Engineer":[
+  "Linux",
+  "Docker",
+  "Kubernetes",
+  "CI/CD",
+  "Git"
+ ],
+
+ "Game Developer":[
+  "C++",
+  "Unity",
+  "C#",
+  "Game Design",
+  "3D Modeling"
+ ]
+}

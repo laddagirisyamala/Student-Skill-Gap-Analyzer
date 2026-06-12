@@ -16,13 +16,15 @@ A Flask-based web application that analyzes student skills, finds missing skills
 - Python
 - Flask
 - HTML
-- JSON
+- JSON 
 
 ## How to Run
 
 Install Flask:
 
-pip install flask
+pip install flask<img width="960" height="540" alt="Screenshot 2026-06-12 213537" src="https://github.com/user-attachments/assets/4291e3c9-48d3-47df-b531-ef3939c0c816" />
+
+
 
 Run:
 
